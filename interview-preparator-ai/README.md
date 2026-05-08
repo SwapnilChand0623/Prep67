@@ -1,6 +1,7 @@
 # Interview Preparator AI
 
 A browser-based mock interview coach that provides instant feedback on your delivery, body language, and answer structure using AI-powered analysis.
+Built in under 24 hours at HackUTA 2025.
 
 ## 🎯 Features
 
