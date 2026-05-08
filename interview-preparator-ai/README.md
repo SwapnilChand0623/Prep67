@@ -148,6 +148,7 @@ interview-preparator-ai/
 - Export data for tracking progress over time
 
 
+## 5. Screenshots
 - <img width="636" height="471" alt="image" src="https://github.com/user-attachments/assets/ad1efcd8-8b17-48df-a899-9094ee1c831b" />
 
 - <img width="847" height="466" alt="image" src="https://github.com/user-attachments/assets/bbb8c6e8-e8e5-4973-be90-171c34ada3c5" />
