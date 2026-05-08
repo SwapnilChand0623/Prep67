@@ -147,6 +147,11 @@ interview-preparator-ai/
 - Review full transcript with highlights
 - Export data for tracking progress over time
 
+<img width="847" height="466" alt="image" src="https://github.com/user-attachments/assets/bbb8c6e8-e8e5-4973-be90-171c34ada3c5" />
+<img width="844" height="451" alt="image" src="https://github.com/user-attachments/assets/32e007eb-4beb-4167-b0f3-0a3688f424ae" />
+
+
+
 ## 🧪 Analysis Methods
 
 ### Speaking Pace
